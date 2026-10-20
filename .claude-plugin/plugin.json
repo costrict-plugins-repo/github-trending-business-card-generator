@@ -1,0 +1,11 @@
+{
+  "name": "business-card-generator",
+  "description": "Professional print-ready business card generator. Creates PDF business cards with 300 DPI, CMYK colors, proper bleed, trim marks, and safe zones meeting professional print shop requirements.",
+  "version": "1.0.0",
+  "author": {
+    "name": "BCCreator"
+  },
+  "homepage": "https://github.com/revathikbose/business-card-generator",
+  "repository": "https://github.com/revathikbose/business-card-generator",
+  "license": "MIT"
+}
